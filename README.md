@@ -1,6 +1,6 @@
 ## Joke API
 
-access webpage by this url: [yzhang33.github.io/data_api](yzhang33.github.io/data_api)
+access webpage by this url: [yzhang33.github.io/data_api](https://yzhang33.github.io/data_api/)
 
 For this Assignment I am loading data from a joke [API](https://official-joke-api.appspot.com/jokes/general/ten) in github using this link. 
 I can specify what kind of jokes I want and how many jokes I get. I am using React for my pages and deployed them in github pages.
