@@ -3,7 +3,7 @@
 access githubpage by this url: [yzhang33.github.io/data_api](https://yzhang33.github.io/data_api/)
 
 For this assignment, I am loading data from a joke [API](https://official-joke-api.appspot.com/jokes/general/ten) in GitHub. 
-I can specify what kind of jokes I want and how many jokes it returns in the JSON file. I am using React for my pages and deployed them in Github pages. Unfortunately, I forgot most React skills such as hooks and props lol. After I recalled all the react knowledge using google. I start to processing jokes using react. 
+I can specify what kind of jokes I want and how many jokes it returns in the JSON file. I am using React for my pages and deployed them in Github pages. Unfortunately, I forgot most React skills such as hooks and props lol. After I recalled all the react knowledge using google. I start to processing jokes using react. When the githubpage refreshes new jokes' data will appear.
 
 ### processing text
 After I read all the joke data. I passed jokes' setup and punchlines to a joke class that parsing texts from the JSON file I read.
